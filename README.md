@@ -1,4 +1,4 @@
-# LEVY OMOLO (omololevy)
+# Ajinkya Giri
 
 
 <div align="center">
