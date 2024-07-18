@@ -7,7 +7,7 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
  </div><br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=omololevy&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="omololevy" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username==Ajinkya-Giri27Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Ajinkya Giri" /> </p>
 
 
 <!-- GREETING  -->
@@ -21,9 +21,9 @@
 
 <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
-<a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/levy-omolo/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="mailto:cotechlevy@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
+<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ajinkya-giri-0440a6259/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="mailto:giriajinkya02@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
 <a href="https://twitter.com/kaylor254"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 <a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
