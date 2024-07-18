@@ -25,7 +25,8 @@
 
 <!-- BADGES -->
 <p align="center">
-<img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+<img src="[https://img.shields.io/badge/Interest-Artificial Intelligence-blue](https://img.shields.io/badge/Interest-Full%20Stack%20Development-blue
+)"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
 <img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
 <img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
