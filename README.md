@@ -7,7 +7,7 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
  </div><br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username==Ajinkya-Giri27Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Ajinkya Giri" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username==Ajinkya-Giri27Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Ajinkya-giri27" /> </p>
 
 
 <!-- GREETING  -->
