@@ -188,39 +188,39 @@
 <table>
 <tr>
 <td>
-<a href="https://github.com/omololevy/omololevy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+<a href="https://github.com/Ajinkya-Giri27/Ajinkya-Giri27">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Giri27&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Ajinkya's GitHub Stats" />
 </td>
 <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Giri27&theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
 
 <tr>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omololevy"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajinkya-Giri27"/>
 </td>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omololevy"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajinkya-Giri27"/>
 </td>
 </tr>
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/Ajinkya-Giri27/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20giriajinkya02@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=450&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya-Giri27&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 
 </td>
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+            <img align="right" alt="Developer Ajinkya Giri" src="code.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
@@ -228,13 +228,9 @@
 ### The Pace:
 
 <div>  
-<img src="https://github-profile-trophy.vercel.app/?username=omololevy&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya-Giri27&margin-w=15&margin-h=15" />
 
 </div>
-<div align="right">
-  
-  ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
-### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/omololevy/omololevy/) !
+
+### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/Ajinkya-Giri27) !
