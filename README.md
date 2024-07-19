@@ -8,7 +8,7 @@
              
 
 <p align="center">
-  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20giriajinkya02@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=450&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
@@ -25,23 +25,21 @@
 
 <!-- BADGES -->
 <p align="center">
-<img src="[https://img.shields.io/badge/Interest-Artificial Intelligence-blue](https://img.shields.io/badge/Interest-Full%20Stack%20Development-blue
-)"/>
+<img src="https://img.shields.io/badge/Interest-Full%20Stack%20Development-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript%2C%20Java-blue" />
+<img src="https://img.shields.io/badge/Lives-Pune-blue" />
+<img src="https://img.shields.io/badge/Language-English%2C%20Marathi%2c%20Hindi-blue" />
 </p><br>
 
 
 <div align="center">
 
 ## 🎓📚 Education 
-![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
-  ![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
- ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
- 
- ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+![](https://img.shields.io/badge/sppu_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
+  ![](https://img.shields.io/badge/mit_college-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+ ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)  ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white) ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 
 </div>
 
@@ -60,27 +58,25 @@
     <tr>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65"" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
       <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>React</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
     </tr>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
     <tr> 
-      <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>SQLite</td>
+      <td align="center" width=110>C++</td>
       <td align="center" width=110>Ba$h</td>
       <td align="center" width=110>Markdown</td>
     </tr>
