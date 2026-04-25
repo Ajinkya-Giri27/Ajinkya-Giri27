@@ -1,3 +1,4 @@
+
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                         HEADER / BANNER                                -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
@@ -27,8 +28,7 @@
   </a>&nbsp;
   <a href="https://github.com/Ajinkya-Giri27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-
+  </a>
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@ located_in: Pune, India 🇮🇳
 education:
   degree: B.E. Computer Engineering (8.02 CGPA)
   university: MMIT, Pune University
+
 focus_areas:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization & Orchestration
