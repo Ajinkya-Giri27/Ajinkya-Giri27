@@ -28,9 +28,7 @@
   <a href="https://github.com/Ajinkya-Giri27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="https://x.com/Ajinkyaa_27">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+
 </p>
 
 <p align="center">
@@ -52,7 +50,6 @@ located_in: Pune, India 🇮🇳
 education:
   degree: B.E. Computer Engineering (8.02 CGPA)
   university: MMIT, Pune University
-current_role: Associate DevOps Intern @ Thynk Tech
 focus_areas:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization & Orchestration
