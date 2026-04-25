@@ -1,4 +1,3 @@
-
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                         HEADER / BANNER                                -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
@@ -7,13 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ajinkya%20Giri&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
+<br>
+
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                         TYPING SVG                                     -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E2%98%81%EF%B8%8F+Building+Scalable+Cloud+Infrastructure;%F0%9F%94%84+Automating+CI%2FCD+Pipelines+End+to+End;%F0%9F%90%B3+Containerizing+%26+Orchestrating+with+K8s;%F0%9F%94%92+Securing+Cloud-Native+Applications" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%81%EF%B8%8F+Building+Scalable+Cloud+Infrastructure;%F0%9F%94%84+Automating+CI%2FCD+Pipelines+End+to+End;%F0%9F%90%B3+Containerizing+%26+Orchestrating+with+K8s;%F0%9F%94%92+Securing+Cloud-Native+Applications" alt="Typing SVG" /></a>
 </p>
+
+<br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                         SOCIAL BADGES                                  -->
@@ -22,17 +25,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ajinkya-giri-0440a6259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="mailto:giriajinkya02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Ajinkya-Giri27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajinkya-Giri27&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
+  <img src="https://komarev.com/ghpvc/?username=Ajinkya-Giri27&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Ajinkya-Giri27?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Followers" />
 </p>
 
@@ -50,7 +55,6 @@ located_in: Pune, India 🇮🇳
 education:
   degree: B.E. Computer Engineering (8.02 CGPA)
   university: MMIT, Pune University
-
 focus_areas:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization & Orchestration
